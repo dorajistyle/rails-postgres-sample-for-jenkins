@@ -1,9 +1,13 @@
-# Ruby on Rails Tutorial sample application
+# Ruby on Rails sample application for jenkins CI
 
 This is the sample application for
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+[*jenkins-rails-postgres-docker:
+Run RoR test with jenkins*](https://github.com/dorajistyle/jenkins-rails-postgres-docker)
+by [dorajistyle](http://www.dorajistyle.pe.kr/).
+
+
+This sample app inherited from [sample_app2](https://github.com/tsmliu213/sample_app2) by [
+Michael Hartl](http://www.michaelhartl.com/).
 
 ## Getting started
 
@@ -31,5 +35,3 @@ If the test suite passes, you'll be ready to run the app in a local server:
 $ rails server
 ```
 
-For more information, see the
-[*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
